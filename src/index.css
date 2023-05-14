@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.paragraph-text-color{
+    color: #676767;
+}
+.primary-text-color{
+    color: #396C03;
+}
+.primary-bg-color{
+    background-color: #396C03;
+}
+
+.font-use{
+    font-family: 'Merienda', cursive;
+}

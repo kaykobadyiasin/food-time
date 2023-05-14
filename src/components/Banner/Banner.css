@@ -1,0 +1,25 @@
+.banner{
+    background-color: #F0F4EC;
+}
+.borderRadius{
+    border-radius: 50px !important;
+}
+.positionR{
+    position: relative !important;
+}
+.positionA{
+    position: absolute !important;
+    /* top: 521px;
+    left: 210px; */
+}
+.banner_imgTop{
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.4) 100%);
+    backdrop-filter: blur(6px);
+    border-radius: 8.86914px;
+    position: absolute;
+    width: 245px;
+    height: 118px;
+    /* left: 1200px;
+    top: 100px; */
+
+}
